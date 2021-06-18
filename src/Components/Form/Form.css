@@ -1,0 +1,18 @@
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 4rem;
+}
+
+.search-input,
+button {
+  border: 1px solid gray;
+  padding: 10px 40px;
+}
+
+button {
+  background: transparent;
+  background-color: tomato;
+  color: white;
+}
